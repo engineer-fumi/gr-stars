@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="390" viewBox="0 0 820 390">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      .term { font-family: 'JetBrains Mono', 'SF Mono', 'Menlo', monospace; font-size: 13px; }
+      .term-bold { font-family: 'JetBrains Mono', 'SF Mono', 'Menlo', monospace; font-size: 13px; font-weight: bold; }
+    </style>
+  </defs>
+  <!-- Window chrome -->
+  <rect width="820" height="390" rx="8" fill="#1a1b26"/>
+  <rect x="0" y="0" width="820" height="36" rx="8" fill="#24283b"/>
+  <rect x="0" y="28" width="820" height="8" fill="#24283b"/>
+  <circle cx="18" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="38" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="58" cy="18" r="6" fill="#28c840"/>
+  <text x="410" y="22" text-anchor="middle" fill="#a9b1d6" class="term" font-size="12">gr-stars — Table View</text>
+  <text x="20.0" y="50" fill="#ff5faf" class="term-bold">★ gr-stars</text>
+  <text x="20.0" y="90" fill="#585858" class="term">Claude / Anthropic</text>
+  <text x="160.0" y="90" fill="#a9b1d6" class="term">  </text>
+  <rect x="175.0" y="77" width="78.0" height="18" fill="#303030"/>
+  <text x="175.0" y="90" fill="#ff87d7" class="term-bold"> AI / LLM </text>
+  <text x="253.0" y="90" fill="#a9b1d6" class="term">  </text>
+  <text x="268.0" y="90" fill="#585858" class="term">Go</text>
+  <text x="283.0" y="90" fill="#a9b1d6" class="term">  </text>
+  <text x="298.0" y="90" fill="#585858" class="term">Web</text>
+  <text x="20.0" y="130" fill="#a9b1d6" class="term-bold"> #   Repository                       Stars  Language     Description</text>
+  <text x="20.0" y="150" fill="#a9b1d6" class="term">─────────────────────────────────────────────────────────────────────────────────</text>
+  <text x="20.0" y="170" fill="#a9b1d6" class="term">   1  tensorflow/tensorflow            187.2k  C++          An Open Source Machine Learning...</text>
+  <text x="20.0" y="190" fill="#a9b1d6" class="term">   2  pytorch/pytorch                   86.4k  Python       Tensors and Dynamic neural net...</text>
+  <text x="20.0" y="210" fill="#a9b1d6" class="term">▸  3  huggingface/transformers         142.1k  Python       Transformers: State-of-the-art...</text>
+  <text x="20.0" y="230" fill="#a9b1d6" class="term">   4  openai/openai-python              25.8k  Python       The official Python library for...</text>
+  <text x="20.0" y="250" fill="#a9b1d6" class="term">   5  langchain-ai/langchain           102.3k  Python       Build context-aware reasoning...</text>
+  <text x="20.0" y="270" fill="#a9b1d6" class="term">   6  ggerganov/llama.cpp               75.6k  C++          LLM inference in C/C++</text>
+  <text x="20.0" y="290" fill="#a9b1d6" class="term">   7  ollama/ollama                    120.4k  Go           Get up and running with Llama...</text>
+  <text x="20.0" y="310" fill="#a9b1d6" class="term">   8  deepseek-ai/DeepSeek-V3           30.1k  Python       DeepSeek-V3 model implementat...</text>
+  <text x="20.0" y="350" fill="#626262" class="term">j/k: select  Enter: open  Tab: category  v: view (table)  /: search  q: quit</text>
+</svg>
