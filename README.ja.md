@@ -6,11 +6,7 @@ GitHub で人気のリポジトリをターミナル上で可視化する CLI �
 **[English](README.md)** | **[中文](README.zh.md)**
 
 <p align="center">
-  <img src="docs/chart-view.svg" alt="Chart View" width="780">
-</p>
-
-<p align="center">
-  <img src="docs/table-view.svg" alt="Table View" width="780">
+  <img src="docs/demo.gif" alt="Demo" width="780">
 </p>
 
 ## 特徴

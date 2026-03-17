@@ -14,7 +14,7 @@ published: false
 
 https://github.com/engineer-fumi/gr-stars
 
-![Chart View](https://raw.githubusercontent.com/engineer-fumi/gr-stars/main/docs/chart-view.svg)
+![Demo](https://raw.githubusercontent.com/engineer-fumi/gr-stars/main/docs/demo.gif)
 
 ## できること
 
