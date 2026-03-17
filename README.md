@@ -6,11 +6,7 @@ Supports category filters, chart/table view toggle, and opening repos directly i
 **[日本語](README.ja.md)** | **[中文](README.zh.md)**
 
 <p align="center">
-  <img src="docs/chart-view.svg" alt="Chart View" width="780">
-</p>
-
-<p align="center">
-  <img src="docs/table-view.svg" alt="Table View" width="780">
+  <img src="docs/demo.gif" alt="Demo" width="780">
 </p>
 
 ## Features
