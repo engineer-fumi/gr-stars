@@ -1,0 +1,9 @@
+gr-stars
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.env
